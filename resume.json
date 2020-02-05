@@ -1,0 +1,212 @@
+{
+  "basics": {
+    "name": "Jozef William Dransfield",
+    "label": "Agile Java Development",
+    "picture": "https://s.gravatar.com/avatar/973b1e7c6f622319038b6ebdfbe5641f?s=460",
+    "email": "jozef.dransfield@me.com",
+    "phone": "07850142098",
+    "summary": "I am a very motivated and dedicated software engineer, who believes in agile practices helping make sure quality software is delivered on time and to budget. With many years of experience working in a multitude of languages on the full application stack.\n\nI am very product focused and will not shy away from tackling any area necessary to getting a project done.\n\nI consider myself very adapt at communicating effectively with non technical interested parties",
+    "location": {
+      "address": "320 Chessington Road",
+      "postalCode": "KT19 9XG",
+      "city": "Ewell",
+      "countryCode": "UK",
+      "region": "Epsom"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "jozefdransfield",
+        "url": "https://github.com/jozefdransfield"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Credit Suisse",
+      "position": "Senior Java Contractor",
+      "website": "http://credit-suisse.com",
+      "startDate": "2018-06-01",
+      "endDate": "2019-03-30",
+      "summary": "New fully automated booking system for structured products, lightweight microservices and a BPMN workflow system acting as the coordinator.",
+      "highlights": [
+        "BPMN",
+        "Springboot"
+      ]
+    },
+    {
+      "company": "BSKYB",
+      "position": "Senior Java Contractor",
+      "website": "http://bskyb.com",
+      "startDate": "2018-01-01",
+      "endDate": "2018-05-30",
+      "summary": "Extending the core authentication platform for sky's online video platform for roll out across europe. Very high traffic website with emphasis on reliability and scalability.",
+      "highlights": [
+        "Kubernetes",
+        "Kafka"
+      ]
+    },
+    {
+      "company": "Delta Capita",
+      "position": "Senior Java Contractor",
+      "website": "http://deltacapita.com",
+      "startDate": "2017-06-01",
+      "endDate": "2017-12-30",
+      "summary": "Automated reporting system to replace manual workflows for the supply chain finance system with third parties."
+    },
+    {
+      "company": "Credit Suisse",
+      "position": "Senior Java Contractor",
+      "website": "https://www.credit-suisse.com",
+      "startDate": "2016-05-01",
+      "endDate": "2017-05-30",
+      "summary": "Develop a new application to generate and manage the lifecycle for KID (Key Information Documents) for Credit Suisse's structured products.",
+      "highlights": [
+        "Kotlin"
+      ]
+    },
+    {
+      "company": "GFT for Deutsche Bank",
+      "position": "Technical Lead",
+      "website": "https://www.gft.com",
+      "startDate": "2016-01-01",
+      "endDate": "2016-05-30",
+      "summary": "Working alongside DB employees in Romania to meet a deadline for a new counterparty management app within the bank. Working cross concerns to get the software delivered",
+      "highlights": [
+        "React"
+      ]
+    },
+    {
+      "company": "Credit Suisse",
+      "position": "Senior Java Contractor",
+      "website": "https://www.credit-suisse.com",
+      "startDate": "2014-11-01",
+      "endDate": "2015-12-30",
+      "summary": "Develop a new application for pricing parameters, the application acts as a rule repository and executor for rules written by business users, with high traffic expectations",
+      "highlights": [
+        "Kotlin",
+        "Angular"
+      ]
+    },
+    {
+      "company": "FightMe",
+      "position": "CTO",
+      "website": "https://fightme.com",
+      "startDate": "2013-01-01",
+      "endDate": "2014-10-30",
+      "summary": "Leading a small team to develop the FightMe web, ios and androids apps. Hands on developing the front and backends for the site",
+      "highlights": [
+        "NodeJS",
+        "Angular"
+      ]
+    },
+    {
+      "company": "Wiley",
+      "position": "Contractor",
+      "website": "http://www.wiley.com",
+      "startDate": "2012-06-01",
+      "endDate": "2012-12-30",
+      "summary": "Develop the Cochrane Search app for public use, that queries across years of medical research publications stored in a marklogic database",
+      "highlights": [
+        "Backbone",
+        "Spring",
+        "MarkLogic"
+      ]
+    },
+    {
+      "company": "BSKYB",
+      "position": "Contractor",
+      "website": "http://www.sky.com",
+      "startDate": "2011-06-01",
+      "endDate": "2012-05-30",
+      "summary": "Develop support applications for Sky broadband's roll out of FTTC products. Used by the customer support teams within sky.",
+      "highlights": [
+        "Utterly Idle/Totally Lazy (Functional Java libraries) Rest"
+      ]
+    },
+    {
+      "company": "Yazino",
+      "position": "Senior Developer",
+      "website": "http://yazino.com",
+      "startDate": "2010-07-01",
+      "endDate": "2011-05-30",
+      "summary": "MMO Online Casino",
+      "highlights": [
+        "Gigaspaces in memory grid framework",
+        "RabbitMQ",
+        "CHEF"
+      ]
+    },
+    {
+      "company": "BSKYB",
+      "position": "Java Developer",
+      "website": "http://sky.com",
+      "startDate": "2009-06-01",
+      "endDate": "2010-06-30",
+      "summary": "Extend SkyID online login portal with new services and features",
+      "highlights": [
+        "Grails"
+      ]
+    },
+    {
+      "company": "Temenos",
+      "position": "Java Developer",
+      "website": "http://www.temenos.com/en/",
+      "startDate": "2007-06-01",
+      "endDate": "2010-05-30",
+      "summary": "Develop core components used by wealth management system"
+    },
+    {
+      "company": "CERN",
+      "position": "E-Business Application Developer",
+      "website": "http://cern.ch",
+      "startDate": "2004-06-01",
+      "endDate": "2007-05-30",
+      "summary": ""
+    },
+    {
+      "company": "CERN",
+      "position": "E-Business Application Developer Technical Student",
+      "website": "http://cern.ch",
+      "startDate": "2002-09-01",
+      "endDate": "2003-08-30",
+      "summary": ""
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Teeside",
+      "area": "BSc (Hons) Computer Science (2:1)",
+      "studyType": "Bachelor",
+      "startDate": "2000-09-02",
+      "endDate": "2004-08-30"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Front End Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript"
+      ]
+    },
+    {
+      "name": "Back End Development",
+      "level": "Master",
+      "keywords": [
+        "Java",
+        "Kotlin",
+        "Spring",
+        "SQL"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ]
+}
