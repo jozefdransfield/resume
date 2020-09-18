@@ -2,7 +2,7 @@
   "basics": {
     "name": "Jozef William Dransfield",
     "label": "Agile Java Development",
-    "picture": "https://s.gravatar.com/avatar/973b1e7c6f622319038b6ebdfbe5641f?s=460",
+    "x-picture": "https://s.gravatar.com/avatar/973b1e7c6f622319038b6ebdfbe5641f?s=460",
     "email": "jozef.dransfield@me.com",
     "phone": "07850142098",
     "summary": "I am a very motivated and dedicated software engineer, who believes in agile practices helping make sure quality software is delivered on time and to budget. With many years of experience working in a multitude of languages on the full application stack.\n\nI am very product focused and will not shy away from tackling any area necessary to getting a project done.\n\nI consider myself very adapt at communicating effectively with non technical interested parties",
@@ -22,6 +22,21 @@
     ]
   },
   "work": [
+    {
+      "company": "Delta Capita",
+      "position": "Senior Contractor",
+      "website": "https://deltacapita.com",
+      "startDate": "2020-04-01",
+      "endDate": "2020-03-30",
+      "summary": "Fullstack developer working on a new software platform for DC software to be created on, using lambda to reduce costs while running at large scale.",
+      "highlights": [
+        "AWS",
+        "Serverless (Amazon Lambda)"
+        "Angular",
+        "Typescript",
+        "RXJS"
+      ]
+    },
     {
       "company": "Credit Suisse",
       "position": "Senior Java Contractor",
