@@ -28,13 +28,13 @@
       "website": "https://deltacapita.com",
       "startDate": "2020-04-01",
       "endDate": "Present",
-      "summary": "Fullstack developer working on a new software platform for DC software to be created on, using lambda to reduce costs while running at large scale.",
+      "summary": "Developing the Delta Capita strategic platform (with emphasis on reusable components for rapid prototyping and delivery of business solutions)",
       "highlights": [
-        "AWS",
-        "Serverless (Amazon Lambda)",
-        "Angular",
-        "Typescript",
-        "RXJS"
+        "Serverless Message Driven architecture (Amazon Lambda, Amazon SQS)",
+        "S3 immutable storage for business data.",
+        "Angular / React monorepo using nx.js to combine the components into one platform user interface.",
+        "NodeJS express apps that function as the lambda code",
+        "Javascript, Typescript, ExpressJS, Angular, RXJS"
       ]
     },
     {
@@ -43,10 +43,14 @@
       "website": "http://credit-suisse.com",
       "startDate": "2018-06-01",
       "endDate": "2019-03-30",
-      "summary": "New fully automated booking system for structured products, lightweight microservices and a BPMN workflow system acting as the coordinator.",
+      "summary": "Developed the workflow based structured product lifecycle orchestration app using Flowable from scratch. (BPMN)",
       "highlights": [
-        "BPMN",
-        "Springboot"
+        "We provided the orchestration that tied the individual micro services into a system for documenting, costing and selling structued products.",
+        "We built the new system product store for capturing product state.",
+        "Pushing forward with new ways to test and coordinate microservices within our group.",
+        "Pushing forward with new ways to orchestrate our deployments with our group.",
+        "Maintaining existing structured product software solutions",
+        "Java, Kotlin, SpringBoot, BPMN "
       ]
     },
     {
@@ -55,10 +59,11 @@
       "website": "http://bskyb.com",
       "startDate": "2018-01-01",
       "endDate": "2018-05-30",
-      "summary": "Extending the core authentication platform for sky's online video platform for roll out across europe. Very high traffic website with emphasis on reliability and scalability.",
+      "summary": "Extending core login and entitlements software for Sky's online video platform.",
       "highlights": [
-        "Kubernetes",
-        "Kafka"
+        "Everything we built had to have its resources properly scaled, using multiples of real world data and tools like Gatling to replicate load scenarios, so that we could scale our kubrenetes resources appropriately.",
+        "Everything had to be monitored, using Prometheus to capture metrics and defining alerts for conditions that needed investigating. ",
+        "Java, Dropwizzard, Ratpack, Kubernetes"
       ]
     },
     {
