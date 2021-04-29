@@ -23,11 +23,26 @@
   },
   "work": [
     {
+      "company": "HSBC",
+      "position": "Senior Contractor",
+      "website": "https://deltacapita.com",
+      "startDate": "2021-04-01",
+      "endDate": "present",
+      "summary": "Developing the Delta Capita strategic platform (with emphasis on reusable components for rapid prototyping and delivery of business solutions)",
+      "highlights": [
+        "Serverless Message Driven architecture (Amazon Lambda, Amazon SQS)",
+        "S3 immutable storage for business data.",
+        "Angular / React monorepo using nx.js to combine the components into one platform user interface.",
+        "NodeJS express apps that function as the lambda code",
+        "Javascript, Typescript, ExpressJS, Angular, RXJS"
+      ]
+    },
+    {
       "company": "Delta Capita",
       "position": "Senior Contractor",
       "website": "https://deltacapita.com",
       "startDate": "2020-04-01",
-      "endDate": "Present",
+      "endDate": "2021-03-31",
       "summary": "Developing the Delta Capita strategic platform (with emphasis on reusable components for rapid prototyping and delivery of business solutions)",
       "highlights": [
         "Serverless Message Driven architecture (Amazon Lambda, Amazon SQS)",
