@@ -23,18 +23,16 @@
   },
   "work": [
     {
-      "company": "HSBC",
+      "company": "HSBC (through TekSystems)",
       "position": "Senior Contractor",
       "website": "https://deltacapita.com",
       "startDate": "2021-04-01",
       "endDate": "present",
-      "summary": "Developing the Delta Capita strategic platform (with emphasis on reusable components for rapid prototyping and delivery of business solutions)",
+      "summary": "Extending the current prime brokerage system to support United State Arranged Financing.",
       "highlights": [
-        "Serverless Message Driven architecture (Amazon Lambda, Amazon SQS)",
-        "S3 immutable storage for business data.",
-        "Angular / React monorepo using nx.js to combine the components into one platform user interface.",
-        "NodeJS express apps that function as the lambda code",
-        "Javascript, Typescript, ExpressJS, Angular, RXJS"
+        "Hazelcast",
+        "Microservices",
+        "MuServer"
       ]
     },
     {
