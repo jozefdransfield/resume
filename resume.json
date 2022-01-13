@@ -31,8 +31,7 @@
       "summary": "Extending the current prime brokerage system to support United State Arranged Financing.",
       "highlights": [
         "Hazelcast",
-        "Microservices",
-        "MuServer"
+        "Microservices"
       ]
     },
     {
@@ -221,7 +220,6 @@
       "level": "Master",
       "keywords": [
         "HTML",
-        "CSS",
         "Javascript"
       ]
     },
@@ -230,20 +228,20 @@
       "level": "Master",
       "keywords": [
         "Java",
-        "Kotlin",
-        "Spring",
-        "SQL"
+        "Kotlin"
       ]
     }
   ],
-  "references": [{
-    "name": "Credit Suisse",
-    "reference": "askhr.uk@credit-suisse.com, 02078888888"
-  },
-  {
-    "name": "BSKYB",
-    "reference": "peopleplus@sky.uk, 03331000333"
-  }],
+  "references": [
+    {
+      "name": "Credit Suisse",
+      "reference": "askhr.uk@credit-suisse.com, 02078888888"
+    },
+    {
+      "name": "BSKYB",
+      "reference": "peopleplus@sky.uk, 03331000333"
+    }
+  ],
   "languages": [
     {
       "language": "English",
