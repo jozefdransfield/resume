@@ -70,7 +70,7 @@
       "company": "BSKYB",
       "position": "Senior Java Contractor",
       "website": "http://bskyb.com",
-      "startDate": "2017-01-01",
+      "startDate": "2018-01-01",
       "endDate": "2018-05-30",
       "summary": "Extending core login and entitlements software for Sky's online video platform.",
       "highlights": [
@@ -236,6 +236,14 @@
       ]
     }
   ],
+  "references": [{
+    "name": "Credit Suisse",
+    "reference": "askhr.uk@credit-suisse.com, 02078888888"
+  },
+  {
+    "name": "BSKYB",
+    "reference": "peopleplus@sky.uk, 03331000333"
+  }],
   "languages": [
     {
       "language": "English",
