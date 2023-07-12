@@ -28,7 +28,7 @@
       "website": "https://www.citi.com",
       "startDate": "2022-01-24",
       "endDate": "present",
-      "summary": "Dismantleing a long neglected time dependand key value database running at scale, and replacing it with a microservices system deployed into the banks internal kubernetes solution",
+      "summary": "Dismantling a long neglected time dependand key value database running at scale, and replacing it with a microservices system deployed into the banks internal kubernetes solution",
       "highlights": [
         "Kubernetes",
         "Microservices",
