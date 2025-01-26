@@ -1,10 +1,14 @@
 {
   "scripts": {
-    "build": "resume export --theme paper resume.pdf"
+    "build": "resumed render -t jsonresume-theme-even",
+    "start": "node index.js"
   },
+  "type": "module",
   "dependencies": {
+    "jsonresume-theme-even": "^0.23.0",
     "jsonresume-theme-kendall": "^0.2.0",
     "jsonresume-theme-paper": "^0.5.0",
-    "resume-cli": "^3.0.5"
+    "resumed": "^4.0.0",
+    "puppeteer": "^13.0.0"
   }
 }
