@@ -23,11 +23,24 @@
   },
   "work": [
     {
+      "company": "HSBC",
+      "position": "Senior Contractor",
+      "website": "https://www.hsbc.com",
+      "startDate": "2025-05-06",
+      "endDate": "present",
+      "summary": "--",
+      "highlights": [
+        "Kubernetes",
+        "Microservices",
+        "Kotlin"
+      ]
+    },
+    {
       "company": "CitiBank (through Juxt)",
       "position": "Senior Contractor",
       "website": "https://www.citi.com",
       "startDate": "2022-01-24",
-      "endDate": "present",
+      "endDate": "2025-04-21",
       "summary": "Dismantling a long neglected time dependant key value database running at scale, and replacing it with a micro-services system deployed into the banks internal Kubernetes solution",
       "highlights": [
         "Kubernetes",
