@@ -1,11 +1,11 @@
 {
   "basics": {
     "name": "Jozef William Dransfield",
-    "label": "Agile Full Stack Development",
+    "label": "Agile Senior Developer",
     "picture": "https://s.gravatar.com/avatar/973b1e7c6f622319038b6ebdfbe5641f?s=460",
     "email": "jozef.dransfield@me.com",
     "phone": "07850142098",
-    "summary": "I am a very motivated and dedicated software engineer, who believes in agile practices helping make sure quality software is delivered on time and to budget. With many years of experience working in a multitude of languages on the full application stack.\n\nI am very product focused and will not shy away from tackling any area necessary to getting a project done.\n\nI consider myself very adapt at communicating effectively with non technical interested parties",
+    "summary": "Product-Focused Software Engineer with a proven track record of navigating the full application stack to deliver business-critical tools. Polyglot by nature, I thrive in fast-paced environments where Agile practices drive quality and speed. I pride myself on being a `bridge` between tech and business, adept at translating stakeholder requirements into robust code while maintaining a relentless focus on the end-user experience.",
     "location": {
       "address": "320 Chessington Road",
       "postalCode": "KT19 9XG",
@@ -23,50 +23,53 @@
   },
   "work": [
     {
-      "company": "HSBC",
+      "name": "HSBC",
       "position": "Senior Contractor",
       "website": "https://www.hsbc.com",
       "startDate": "2025-05-06",
-      "endDate": "present",
-      "summary": "--",
+      "endDate": "2025-12-30",
+      "summary": "- Collaborated with teams across the globe to deliver a system to provide quotes to an external vendor. \n - Spearheaded a custom functional and monitoring toolkit that identified bottlenecks pre-launch, ensuring 100% stability during the go-live phase.",
       "highlights": [
-        "Kubernetes",
         "Microservices",
-        "Kotlin"
+        "Kotlin / Ktor",
+        "Java / Spring / SpringBoot"
       ]
     },
     {
-      "company": "CitiBank (through Juxt)",
+      "name": "CitiBank (through Juxt)",
       "position": "Senior Contractor",
       "website": "https://www.citi.com",
       "startDate": "2022-01-24",
       "endDate": "2025-04-21",
-      "summary": "Dismantling a long neglected time dependant key value database running at scale, and replacing it with a micro-services system deployed into the banks internal Kubernetes solution",
+      "summary": "- Modernized legacy data system by replacing a high-scale key-value database with a scalable microservices suite deployed via Kubernetes. \n - Eliminated long-standing technical debt by migrating time-dependent legacy systems to a cloud-native internal banking platform, all while growth on the existing platform was continuing to grow.",
       "highlights": [
         "Kubernetes",
         "Microservices",
-        "Kotlin"
+        "Kotlin / HTTP4k",
+        "Clojure"
       ]
     },
     {
-      "company": "HSBC (through TekSystems)",
+      "name": "HSBC (through TekSystems)",
       "position": "Senior Contractor",
       "website": "https://www.hsbc.com",
       "startDate": "2021-04-01",
       "endDate": "2022-01-21",
-      "summary": "Extending the current prime brokerage system to support United State Arranged Financing.",
+      "summary": "Expanded the Prime Brokerage platform’s capabilities to support U.S. Arranged Financing, enabling the business to capture new market share within North American jurisdictions.",
       "highlights": [
         "Hazelcast",
-        "Microservices"
+        "Microservices",
+        "Java",
+        "Spring / SpringBoot"
       ]
     },
     {
-      "company": "Delta Capita",
+      "name": "Delta Capita",
       "position": "Senior Contractor",
       "website": "https://deltacapita.com",
       "startDate": "2020-04-01",
       "endDate": "2021-03-31",
-      "summary": "Developing the Delta Capita strategic platform (with emphasis on reusable components for rapid prototyping and delivery of business solutions)",
+      "summary": "Engineered a library of shared services and UI components, enabling rapid prototyping and reducing development cycles for new client requirements.",
       "highlights": [
         "Serverless Message Driven architecture (Amazon Lambda, Amazon SQS)",
         "S3 immutable storage for business data.",
@@ -76,36 +79,34 @@
       ]
     },
     {
-      "company": "Credit Suisse",
+      "name": "Credit Suisse",
       "position": "Senior Java Contractor",
       "website": "http://credit-suisse.com",
       "startDate": "2018-06-01",
       "endDate": "2020-03-31",
       "summary": "Developed the workflow based structured product lifecycle orchestration app using Flowable from scratch. (BPMN)",
       "highlights": [
-        "We provided the orchestration that tied the individual micro services into a system for documenting, costing and selling structued products.",
-        "We built the new system product store for capturing product state.",
+        "Provided the orchestration that tied the individual micro services into a system for documenting, costing and selling structued products.",
+        "Built the new system product store for capturing product state.",
         "Pushing forward with new ways to test and coordinate microservices within our group.",
         "Pushing forward with new ways to orchestrate our deployments with our group.",
         "Maintaining existing structured product software solutions",
-        "Java, Kotlin, SpringBoot, BPMN "
+        "Java, Kotlin, SpringBoot, BPMN"
       ]
     },
     {
-      "company": "BSKYB",
+      "name": "BSKYB",
       "position": "Senior Java Contractor",
       "website": "http://bskyb.com",
       "startDate": "2018-01-01",
       "endDate": "2018-05-30",
-      "summary": "Extending core login and entitlements software for Sky's online video platform.",
+      "summary": "- Engineering new customer flows within the online video platform authentication system \n - High emphasis on monitoring and scalablity",
       "highlights": [
-        "Everything we built had to have its resources properly scaled, using multiples of real world data and tools like Gatling to replicate load scenarios, so that we could scale our kubrenetes resources appropriately.",
-        "Everything had to be monitored, using Prometheus to capture metrics and defining alerts for conditions that needed investigating. ",
         "Java, Dropwizzard, Ratpack, Kubernetes"
       ]
     },
     {
-      "company": "Delta Capita",
+      "name": "Delta Capita",
       "position": "Senior Java Contractor",
       "website": "http://deltacapita.com",
       "startDate": "2017-06-01",
@@ -113,7 +114,7 @@
       "summary": "Automated reporting system to replace manual workflows for the supply chain finance system with third parties."
     },
     {
-      "company": "Credit Suisse",
+      "name": "Credit Suisse",
       "position": "Senior Java Contractor",
       "website": "https://www.credit-suisse.com",
       "startDate": "2016-05-01",
@@ -124,7 +125,7 @@
       ]
     },
     {
-      "company": "GFT for Deutsche Bank",
+      "name": "GFT for Deutsche Bank",
       "position": "Technical Lead",
       "website": "https://www.gft.com",
       "startDate": "2016-01-01",
@@ -135,7 +136,7 @@
       ]
     },
     {
-      "company": "Credit Suisse",
+      "name": "Credit Suisse",
       "position": "Senior Java Contractor",
       "website": "https://www.credit-suisse.com",
       "startDate": "2014-11-01",
@@ -147,7 +148,7 @@
       ]
     },
     {
-      "company": "FightMe",
+      "name": "FightMe",
       "position": "CTO",
       "website": "https://fightme.com",
       "startDate": "2013-01-01",
@@ -159,7 +160,7 @@
       ]
     },
     {
-      "company": "Wiley",
+      "name": "Wiley",
       "position": "Contractor",
       "website": "http://www.wiley.com",
       "startDate": "2012-06-01",
@@ -172,7 +173,7 @@
       ]
     },
     {
-      "company": "BSKYB",
+      "name": "BSKYB",
       "position": "Contractor",
       "website": "http://www.sky.com",
       "startDate": "2011-06-01",
@@ -183,7 +184,7 @@
       ]
     },
     {
-      "company": "Yazino",
+      "name": "Yazino",
       "position": "Senior Developer",
       "website": "http://yazino.com",
       "startDate": "2010-07-01",
@@ -196,7 +197,7 @@
       ]
     },
     {
-      "company": "BSKYB",
+      "name": "BSKYB",
       "position": "Java Developer",
       "website": "http://sky.com",
       "startDate": "2009-06-01",
@@ -207,7 +208,7 @@
       ]
     },
     {
-      "company": "Temenos",
+      "name": "Temenos",
       "position": "Java Developer",
       "website": "http://www.temenos.com/en/",
       "startDate": "2007-06-01",
@@ -215,7 +216,7 @@
       "summary": "Develop core components used by wealth management system"
     },
     {
-      "company": "CERN",
+      "name": "CERN",
       "position": "E-Business Application Developer",
       "website": "http://cern.ch",
       "startDate": "2004-06-01",
@@ -223,7 +224,7 @@
       "summary": ""
     },
     {
-      "company": "CERN",
+      "name": "CERN",
       "position": "E-Business Application Developer Technical Student",
       "website": "http://cern.ch",
       "startDate": "2002-09-01",

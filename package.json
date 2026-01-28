@@ -1,14 +1,18 @@
 {
   "scripts": {
-    "build": "resumed render -t jsonresume-theme-even",
+    "render": "resumed render -t jsonresume-theme-even",
+    "export": "resumed export -t jsonresume-theme-even",
     "start": "node index.js"
   },
   "type": "module",
   "dependencies": {
-    "jsonresume-theme-even": "^0.23.0",
+    "jsonresume-theme-even": "^0.26.1",
     "jsonresume-theme-kendall": "^0.2.0",
-    "jsonresume-theme-paper": "^0.5.0",
-    "resumed": "^4.0.0",
-    "puppeteer": "^13.0.0"
+    "jsonresume-theme-kendall-markdown": "^0.2.10",
+    "jsonresume-theme-macchiato": "^1.1.0",
+    "jsonresume-theme-orbit": "^3.0.0",
+    "jsonresume-theme-react": "^1.0.4",
+    "puppeteer": "^24.31.0",
+    "resumed": "^6.1.0"
   }
 }
