@@ -23,12 +23,21 @@
   },
   "work": [
     {
+      "name": "Sky",
+      "position": "Senior Contractor",
+      "website": "https://www.sky.com",
+      "startDate": "2026-04-27",
+      "endDate": "-",
+      "summary": "-",
+      "highlights": []
+    },
+    {
       "name": "HSBC",
       "position": "Senior Contractor",
       "website": "https://www.hsbc.com",
       "startDate": "2025-05-06",
       "endDate": "2025-12-30",
-      "summary": "- Collaborated with teams across the globe to deliver a system to provide quotes to an external vendor. \n - Spearheaded a custom functional and monitoring toolkit that identified bottlenecks pre-launch, ensuring 100% stability during the go-live phase.",
+      "summary": "- Collaborated with teams across the globe to integrate HSBC's structured product platform into a vendor's quoting system. \n - Spearheaded a custom functional and monitoring toolkit that identified bottlenecks pre-launch, ensuring 100% stability during the go-live phase.",
       "highlights": [
         "Microservices",
         "Kotlin / Ktor",
@@ -101,9 +110,7 @@
       "startDate": "2018-01-01",
       "endDate": "2018-05-30",
       "summary": "- Engineering new customer flows within the online video platform authentication system \n - High emphasis on monitoring and scalablity",
-      "highlights": [
-        "Java, Dropwizzard, Ratpack, Kubernetes"
-      ]
+      "highlights": ["Java, Dropwizzard, Ratpack, Kubernetes"]
     },
     {
       "name": "Delta Capita",
@@ -120,9 +127,7 @@
       "startDate": "2016-05-01",
       "endDate": "2017-05-30",
       "summary": "Develop a new application to generate and manage the lifecycle for KID (Key Information Documents) for Credit Suisse's structured products.",
-      "highlights": [
-        "Kotlin"
-      ]
+      "highlights": ["Kotlin"]
     },
     {
       "name": "GFT for Deutsche Bank",
@@ -131,9 +136,7 @@
       "startDate": "2016-01-01",
       "endDate": "2016-05-30",
       "summary": "Working alongside DB employees in Romania to meet a deadline for a new counterparty management app within the bank. Working cross concerns to get the software delivered",
-      "highlights": [
-        "React"
-      ]
+      "highlights": ["React"]
     },
     {
       "name": "Credit Suisse",
@@ -142,10 +145,7 @@
       "startDate": "2014-11-01",
       "endDate": "2015-12-30",
       "summary": "Develop a new application for pricing parameters, the application acts as a rule repository and executor for rules written by business users, with high traffic expectations",
-      "highlights": [
-        "Kotlin",
-        "Angular"
-      ]
+      "highlights": ["Kotlin", "Angular"]
     },
     {
       "name": "FightMe",
@@ -154,10 +154,7 @@
       "startDate": "2013-01-01",
       "endDate": "2014-10-30",
       "summary": "Leading a small team to develop the FightMe web, ios and androids apps. Hands on developing the front and backends for the site",
-      "highlights": [
-        "NodeJS",
-        "Angular"
-      ]
+      "highlights": ["NodeJS", "Angular"]
     },
     {
       "name": "Wiley",
@@ -166,11 +163,7 @@
       "startDate": "2012-06-01",
       "endDate": "2012-12-30",
       "summary": "Develop the Cochrane Search app for public use, that queries across years of medical research publications stored in a marklogic database",
-      "highlights": [
-        "Backbone",
-        "Spring",
-        "MarkLogic"
-      ]
+      "highlights": ["Backbone", "Spring", "MarkLogic"]
     },
     {
       "name": "BSKYB",
@@ -190,11 +183,7 @@
       "startDate": "2010-07-01",
       "endDate": "2011-05-30",
       "summary": "MMO Online Casino",
-      "highlights": [
-        "Gigaspaces in memory grid framework",
-        "RabbitMQ",
-        "CHEF"
-      ]
+      "highlights": ["Gigaspaces in memory grid framework", "RabbitMQ", "CHEF"]
     },
     {
       "name": "BSKYB",
@@ -203,9 +192,7 @@
       "startDate": "2009-06-01",
       "endDate": "2010-06-30",
       "summary": "Extend SkyID online login portal with new services and features",
-      "highlights": [
-        "Grails"
-      ]
+      "highlights": ["Grails"]
     },
     {
       "name": "Temenos",
@@ -245,18 +232,12 @@
     {
       "name": "Front End Development",
       "level": "Experienced",
-      "keywords": [
-        "HTML",
-        "Javascript"
-      ]
+      "keywords": ["HTML", "Javascript"]
     },
     {
       "name": "Back End Development",
       "level": "Experienced",
-      "keywords": [
-        "Java",
-        "Kotlin"
-      ]
+      "keywords": ["Java", "Kotlin"]
     }
   ],
   "references": [
