@@ -27,9 +27,9 @@
       "position": "Senior Contractor",
       "website": "https://www.sky.com",
       "startDate": "2026-04-27",
-      "endDate": "-",
-      "summary": "-",
-      "highlights": []
+      "endDate": "",
+      "summary": "Senior developer on a strategic programme to replace Sky Italia's legacy OSS (operations support system) with an in-house platform. Owned the provider abstraction layer, building Kotlin services with http4k that integrate with the APIs of Italy's three main wholesale providers, and using JMS messaging to decouple the platform from each provider's differences behind a single, consistent interface. Delivered on schedule against a very tight deadline, enabling the business to move off the legacy solution as planned",
+      "highlights": ["Microservices", "Kotlin", "Http4k"]
     },
     {
       "name": "HSBC",
